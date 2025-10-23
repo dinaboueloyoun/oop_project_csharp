@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|c:\\users\\user\\source\\repos\\consoleapp20\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4230324D-7521-43EA-9F74-359CD5CC8E6D}|ConsoleApp20.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:30:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\FinalExam.cs",
+              "RelativeDocumentMoniker": "FinalExam.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\FinalExam.cs",
+              "RelativeToolTip": "FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:30:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "PracticalExam.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\PracticalExam.cs",
+              "RelativeToolTip": "PracticalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:29:53.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:29:16.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "McqQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\McqQuestion.cs",
+              "RelativeDocumentMoniker": "McqQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\McqQuestion.cs",
+              "RelativeToolTip": "McqQuestion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAABAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:28:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "TrueFalseQuestion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "TrueFalseQuestion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAABAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:28:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAABAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:27:00.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Answer.cs",
+              "RelativeDocumentMoniker": "Answer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Answer.cs",
+              "RelativeToolTip": "Answer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBHwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:26:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\InputHelper.cs",
+              "RelativeDocumentMoniker": "InputHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\InputHelper.cs",
+              "RelativeToolTip": "InputHelper.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAABAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:26:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:25:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsoleApp20\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T22:25:24.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
